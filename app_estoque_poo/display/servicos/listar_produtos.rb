@@ -6,7 +6,7 @@ def listar_produtos
 
     table = Terminal::Table.new do |t|
         t.headings = ['id', 'nome', 'descrição', 'preço', 'quantidade']
-        ProdutoServico.todos.each do |produto|
+        ProdutoServico.new(JsonManage, 'db/produtos.json').todos.each do |produto|
             t.add_row [produto.id, produto.nome, produto.descricao, produto.preco, produto.quantidade]
         end
     end   

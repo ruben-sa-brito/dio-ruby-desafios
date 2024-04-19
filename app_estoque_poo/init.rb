@@ -8,6 +8,4 @@ require_relative 'infra/json_manage'
 require 'terminal-table'
 require 'colorize'
 
-
-
 iniciar_menu

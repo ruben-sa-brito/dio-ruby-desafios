@@ -23,7 +23,7 @@
   {
     "id": 1713533093,
     "nome": "kiwi",
-    "descricao": "otima para sorvetes",
+    "descricao": "descriçao generica",
     "preco": 5.0,
     "quantidade": 15.0
   },
@@ -40,5 +40,12 @@
     "descricao": "carne de otima qualidade",
     "preco": 72.0,
     "quantidade": 5.0
+  },
+  {
+    "id": 1713564865,
+    "nome": "carne de frango",
+    "descricao": "carne branca",
+    "preco": 12.0,
+    "quantidade": 28.0
   }
 ]
