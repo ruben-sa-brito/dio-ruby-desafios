@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "maça",
+    "descricao": "descriçao generica",
+    "preco": "7",
+    "quantidade": 4996
+  },
+  {
+    "id": 2,
+    "nome": "uva",
+    "descricao": "contem um conjunto de frutas",
+    "preco": 5,
+    "quantidade": 3
+  },
+  {
+    "id": 3,
+    "nome": "macarrão",
+    "descricao": "massa para sopas",
+    "preco": "30 reais",
+    "quantidade": 76
+  },
+  {
+    "id": 1713533093,
+    "nome": "kiwi",
+    "descricao": "otima para sorvetes",
+    "preco": 5.0,
+    "quantidade": 15.0
+  },
+  {
+    "id": 1713533124,
+    "nome": "",
+    "descricao": "sem nome",
+    "preco": 10.0,
+    "quantidade": 4.0
+  },
+  {
+    "id": 1713533167,
+    "nome": "picanha",
+    "descricao": "carne de otima qualidade",
+    "preco": 72.0,
+    "quantidade": 5.0
+  }
+]
